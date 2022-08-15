@@ -42,8 +42,8 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.maks45'
-                artifactId = 'composeratebar'
-                version = '0.0.1'
+                artifactId = 'RatingBar'
+                version = '1.0.0'
             }
         }
     }
